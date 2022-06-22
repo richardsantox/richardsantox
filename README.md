@@ -1,7 +1,7 @@
 ### Olá! Sou o Richard 👋
 
 - 🔭 Hoje sou aluno da Generation Brasil
-- 🌱 Estudando .NET 
+- 🌱 Estudando .NET|C#|React|TypeScript|SqlServer|Postman|
 - 😄 Pronouns: ele/dele
 
 <div align="center">
