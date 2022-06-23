@@ -8,7 +8,7 @@
     <p>Pronomes Ele/Elle/He 🍀</p>
     <p>Fullstack pela Generation Brasil 🚀</p> 
     <p>Apaixonado por programação  ❤</p>
-    <p>Contact 👇🏾 </p>
+    <p>Contatos 👇🏾 </p>
   </h4>
 </div>
  
@@ -36,7 +36,10 @@
   
 <div align="center">
   <br>
-  <p align="centre"><b>Contador de visitantes</b></p>  
+  <h4>
+    <p>Contador de visitantes</p> 
+  </h4>
+   
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{richardsantox}/count.svg" /></p> 
   <br>
 </div>
