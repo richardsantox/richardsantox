@@ -8,7 +8,7 @@
   <h4>
     <p>Pronomes Ele/Elle/He 🍀</p>
     <p>Fullstack pela Generation Brasil 🚀</p> 
-    <p>Apaixonado por programação  ❤</p>
+    <p>Entusiasta da programação  ❤</p>
     <p>Contatos 👇🏾 </p>
   </h4>
 </div>
