@@ -22,19 +22,9 @@
   <a href="https://www.instagram.com/rsantox_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
  
- <hr>
-  
-<br>
-<div align="center">
-  <a href="https://github.com/richardsantox">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardsantox&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsantox&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-  
- 
+ <hr>  
   
 <div align="center">
-  <br>
   <h4>
     <p>Contador de visitantes</p> 
   </h4>
