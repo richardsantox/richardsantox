@@ -7,7 +7,8 @@
 <div align="center">
   <h4>
     <p>Pronomes Ele/Elle/He 🍀</p>
-    <p>Fullstack pela Generation Brasil 🚀</p> 
+    <p>Fullstack .NET na Generation Brasil 🚀</p> 
+    <p>Análise e Desenvolvimento de Sistemas na Faculdade Impacta 📚</p> 
     <p>Entusiasta da programação  ❤</p>
     <p>Contatos 👇🏾 </p>
   </h4>
