@@ -19,9 +19,6 @@
    <a href="https://www.linkedin.com/in/richardsantox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/rsantox_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-   
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{richardsantox}/count.svg" /></p> 
-  <br>
 </div>
   
 <hr>
